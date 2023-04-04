@@ -1,0 +1,21 @@
+.first{
+    text-align: center;
+}
+
+.bar{fill: blue;}
+
+.main {
+    text-align: center;
+}
+.main,h2{
+    color: red;
+}
+.chart{
+    width: 100%;
+    text-align: center;
+}
+
+.chart1{
+    width: 100%;
+    text-align: center;
+}
